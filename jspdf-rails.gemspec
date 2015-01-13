@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Jspdf::Rails::VERSION
   spec.authors       = ["Matic Jurglic"]
   spec.email         = ["matic@jurglic.si"]
-  spec.summary       = %q{A HTML5 client-side solution for generating PDFs.}
-  spec.description   = %q{jsPDF packaged for the Rails asset pipeline.}
+  spec.description   = %q{A HTML5 client-side solution for generating PDFs.}
+  spec.summary       = %q{jsPDF packaged for the Rails asset pipeline.}
   spec.homepage      = "https://github.com/matixmatix/jspdf-rails"
   spec.license       = "MIT"
 
