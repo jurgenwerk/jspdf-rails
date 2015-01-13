@@ -33,4 +33,4 @@ For JavaScript
     //= require 'jspdf'
 
 
-Be sure to include JQuery or Zepto before requiring jsPDF.
+Be sure to include jQuery before requiring jsPDF.
